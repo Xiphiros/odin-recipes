@@ -8,16 +8,18 @@ The purpose of this repository is to make a simple recipes website with the basi
 
 - **Project:** Odin Recipes
 - **Course:** The Odin Project - Foundations
-- **Lesson:** [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
+- **Lesson:** [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes) & [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
 
 ## Features
 
 - A homepage, using the elements taught in the curriculum so far (the basic HTML boilerplate, headers, lists, images and links to each recipe using relative links).
 - Multiple recipe pages, each with images and steps to make their specific dish, using unordered and ordered lists, strong tags, and absolute links to the Genshin Wiki for in-game information of the dish.
+- Basic styling using both HTML5 and CSS through a external stylesheet.
 
 ## Built With
 
 - **HTML5**
+- **CSS**
 
 ## Setup and Installation
 
