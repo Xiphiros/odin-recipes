@@ -21,6 +21,11 @@ body {
     height: auto;
 }
 
+.header .article-image {
+    width: auto;
+    height: auto;
+}
+
 .content {
     display: flex;
     flex-direction: column;
