@@ -8,7 +8,7 @@ The purpose of this repository is to make a simple recipes website with the basi
 
 - **Project:** Odin Recipes
 - **Course:** The Odin Project - Foundations
-- **Lesson:** [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes) & [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
+- **Lesson:** [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes), [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade), [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
 
 ## Features
 
