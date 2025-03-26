@@ -1,5 +1,5 @@
 
-# Project Title
+# Odin Recipes
 
 **Description:**  
 A simple recipe page structure made in HTML5
